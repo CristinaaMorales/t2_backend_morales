@@ -1,0 +1,8 @@
+INICIO SESIÓN - Tipo Documento: 1, Número: 44444441, Fecha y Hora: 2024-10-15T19:35:43.259972300
+CERRAR SESIÓN - Tipo Documento: 1, Número: 44444441, Fecha y Hora: 2024-10-15T19:35:52.841950900
+INICIO SESIÓN - Tipo Documento: 1, Número: 44444442, Fecha y Hora: 2024-10-15T19:48:34.213200300
+CERRAR SESIÓN - Tipo Documento: 1, Número: 44444442, Fecha y Hora: 2024-10-15T19:48:49.552403900
+INICIO SESIÓN - Tipo Documento: 1, Número: 44444441, Fecha y Hora: 2024-10-15T19:51:30.258539300
+CERRAR SESIÓN - Tipo Documento: 1, Número: 44444441, Fecha y Hora: 2024-10-15T19:51:38.557481600
+INICIO SESIÓN - Tipo Documento: 1, Número: 44444441, Fecha y Hora: 2024-10-15T20:01:34.290445200
+CERRAR SESIÓN - Tipo Documento: 1, Número: 44444441, Fecha y Hora: 2024-10-15T20:01:45.583453300

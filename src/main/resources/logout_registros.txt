@@ -1,0 +1,2 @@
+Tipo Documento: 1, Número: 44444441, Fecha y Hora: 2024-10-13T21:37:14.075751800
+Tipo Documento: 1, Número: 44444441, Fecha y Hora: 2024-10-13T21:52:15.457729800
